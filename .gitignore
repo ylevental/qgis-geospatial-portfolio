@@ -1,0 +1,23 @@
+# QGIS project files
+*.qgs
+*.qgz
+*.qgs~
+
+# Output rasters/vectors (too large for git)
+output/
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.laz
+*.las
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
