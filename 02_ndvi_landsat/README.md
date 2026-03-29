@@ -1,10 +1,10 @@
-# NDVI from Landsat 8
+# NDVI from Landsat 9
 
-Calculates Normalized Difference Vegetation Index from Landsat 8 OLI surface reflectance bands, with a classified color ramp for vegetation health assessment.
+Calculates Normalized Difference Vegetation Index from Landsat 9 OLI-2 surface reflectance bands, with a classified color ramp for vegetation health assessment.
 
 ## Data Source
 
-- **Landsat 8 Collection 2 Level-2**: Download from [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
+- **Landsat 9 Collection 2 Level-2**: Download from [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
 - Path 16, Row 30 covers the Rochester, NY / Finger Lakes region
 - Free USGS account required
 
@@ -26,4 +26,4 @@ Calculates Normalized Difference Vegetation Index from Landsat 8 OLI surface ref
 
 ## Screenshots
 
-*(Add screenshots after running the script in QGIS)*
+![NDVI Color Ramp](screenshots/ndvi_output.png)

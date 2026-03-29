@@ -26,4 +26,4 @@ Computes slope, aspect, and hillshade from a USGS 3DEP 1/3 arc-second DEM tile u
 
 ## Screenshots
 
-*(Add screenshots after running the script in QGIS)*
+![Terrain Analysis — Hillshade](screenshots/terrain_composite.png)

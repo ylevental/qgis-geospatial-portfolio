@@ -9,8 +9,8 @@ Computes slope, aspect, and hillshade from a USGS 3DEP elevation model of the Ro
 
 ![Terrain Analysis](01_dem_terrain_analysis/screenshots/terrain_composite.png)
 
-### 2. NDVI from Landsat 8
-Calculates Normalized Difference Vegetation Index from Landsat 8 OLI bands, with a classified color ramp highlighting vegetation health.
+### 2. NDVI from Landsat 9
+Calculates Normalized Difference Vegetation Index from Landsat 9 OLI-2 bands, with a classified color ramp highlighting vegetation health.
 
 ![NDVI](02_ndvi_landsat/screenshots/ndvi_output.png)
 
@@ -20,7 +20,7 @@ Performs buffer, clip, and spatial join operations on US Census TIGER/Line data 
 ![Vector Analysis](03_vector_geoprocessing/screenshots/vector_result.png)
 
 ### 4. Lidar Point Cloud Visualization
-Loads and renders a USGS 3DEP lidar point cloud (LAZ), classifying points by elevation and return number — connecting to my [M.S. thesis on 3D lidar voxel classification](https://scholarworks.rit.edu/).
+Loads and renders a USGS 3DEP lidar point cloud (LAZ), classifying points by elevation and return number — connecting to my [M.S. thesis on 3D lidar voxel classification](https://repository.rit.edu/theses/11534/).
 
 ![Lidar](04_lidar_point_cloud/screenshots/lidar_render.png)
 

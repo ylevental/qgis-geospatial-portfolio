@@ -4,7 +4,7 @@ Loads and renders USGS 3DEP lidar point clouds in QGIS, with elevation-based col
 
 ## Connection to Thesis Work
 
-This project connects directly to my M.S. thesis at RIT on **3D lidar voxel-based classification using deep learning**, where I developed methods for classifying airborne lidar point clouds into land cover categories using 3D convolutional neural networks. The workflows here demonstrate the upstream visualization and exploration steps that inform feature engineering for point cloud classification.
+This project connects directly to my [M.S. thesis at RIT](https://repository.rit.edu/theses/11534/) on **3D lidar voxel-based classification using deep learning**, where I developed methods for classifying airborne lidar point clouds into land cover categories using 3D convolutional neural networks. The workflows here demonstrate the upstream visualization and exploration steps that inform feature engineering for point cloud classification.
 
 ## Data Source
 
@@ -32,4 +32,4 @@ This project connects directly to my M.S. thesis at RIT on **3D lidar voxel-base
 
 ## Screenshots
 
-*(Add screenshots after running the script in QGIS)*
+![Lidar Point Cloud — Elevation Color Ramp](screenshots/lidar_render.png)

@@ -26,4 +26,4 @@ Performs buffer, clip, and spatial analysis on US Census TIGER/Line shapefiles t
 
 ## Screenshots
 
-*(Add screenshots after running the script in QGIS)*
+![Census Tracts within 10 km of RIT](screenshots/vector_result.png)
